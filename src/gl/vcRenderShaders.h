@@ -3,6 +3,9 @@
 
 #include "vcGLState.h"
 
+extern const char* const g_VisualizationFragmentShader;
+extern const char *const g_VisualizationVertexShader;
+
 extern const char* const g_udFragmentShader;
 extern const char* const g_udSplatIdFragmentShader;
 extern const char* const g_udVertexShader;
